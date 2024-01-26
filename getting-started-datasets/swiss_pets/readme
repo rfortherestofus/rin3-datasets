@@ -1,0 +1,27 @@
+Original data set download source: Jadey Ryan's GitHub
+
+URL: https://github.com/jadeynryan/parameterized-quarto-workshop/blob/main/data/pets.RDS
+
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA) license
+https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+- this data set HAS been changed/cleaned from the original version.
+
+Description: Data collected in January 2024 about the registered cats and dogs kept as pets in Switzerland. Data is from Identitas AG, Animal statistics, the Swiss animal statistics website (https://tierstatistik.identitas.ch/en/cats.html) and was cleaned and coordinated by Jadey Ryan on 2024-01-14.  Her import and cleaning script is here: https://github.com/jadeynryan/parameterized-quarto-workshop/blob/main/data/data.R
+
+*** Please note many names of dog and cat breeds could be in Swiss German or Swiss French!
+
+
+
+Data Set Fields:
+
+
+- pet_type: whether the pet belongs in the "cats" or "dogs" category
+
+- year: year of the count of registered pets in the country
+
+- month: month of the count of registered pets in the country
+
+- breed: the breed of cat or dog being counted
+
+- count: the number of the breed of cat or dog registered in Switzerland during the month/year

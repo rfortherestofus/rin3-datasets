@@ -1,0 +1,160 @@
+Original data set download source: Tidy Tuesday GitHub repo
+
+URL: https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-05-09/readme.md
+
+License: Creative Commons
+CC0 1.0 Universal - https://github.com/rfordatascience/tidytuesday/blob/master/LICENSE
+
+- the data set HAS been changed/cleaned from the original version.
+
+
+
+Description: Entries from the National Database of Childcare Prices.
+
+The National Database of Childcare Prices (NDCP) is the most comprehensive federal source of childcare prices at the county level. The database offers childcare price data by childcare provider type, age of children, and county characteristics. Data are available from 2008 to 2018.
+
+
+
+THIS IS A GREAT CHANCE TO PRACTICE SIMPLE MERGING!
+
+
+There are two data sets, one of childcare costs and one with county and state names.
+
+
+
+childcare_costs data fields:
+
+county_fips_code - Four- or five-digit number that uniquely identifies the county in a state. The first two digits (for five-digit numbers) or 1 digit (for four-digit numbers) refer to the FIPS code of the state to which the county belongs.
+
+study_year - Year the data collection began for the market rate survey and in which ACS data is representative of, or the study publication date.
+
+unr_16 - Unemployment rate of the population aged 16 years old or older.
+
+funr_16 - Unemployment rate of the female population aged 16 years old or older.
+
+munr_16 - Unemployment rate of the male population aged 16 years old or older.
+
+unr_20to64 - Unemployment rate of the population aged 20 to 64 years old.
+
+funr_20to64 - Unemployment rate of the female population aged 20 to 64 years old.
+
+munr_20to64 - Unemployment rate of the male population aged 20 to 64 years old.
+
+flfpr_20to64 - Labor force participation rate of the female population aged 20 to 64 years old.
+
+flfpr_20to64_under6 - Labor force participation rate of the female population aged 20 to 64 years old who have children under 6 years old.
+
+flfpr_20to64_6to17 - Labor force participation rate of the female population aged 20 to 64 years old who have children between 6 and 17 years old.
+
+flfpr_20to64_under6_6to17 - Labor force participation rate of the female population aged 20 to 64 years old who have children under 6 years old and between 6 and 17 years old.
+
+mlfpr_20to64 - Labor force participation rate of the male population aged 20 to 64 years old.
+
+pr_f - Poverty rate for families.
+
+pr_p - Poverty rate for individuals.
+
+mhi_2018 - Median household income expressed in 2018 dollars.
+
+me_2018 - Median earnings expressed in 2018 dollars for the population aged 16 years old or older.
+
+fme_2018 - Median earnings for females expressed in 2018 dollars for the population aged 16 years old or older.
+
+mme_2018 - Median earnings for males expressed in 2018 dollars for the population aged 16 years old or older.
+
+total_pop - Count of the total population.
+
+one_race - Percent of population that identifies as being one race.
+
+one_race_w - Percent of population that identifies as being one race and being only White or Caucasian.
+
+one_race_b - Percent of population that identifies as being one race and being only Black or African American.
+
+one_race_i - Percent of population that identifies as being one race and being only American Indian or Alaska Native.
+
+one_race_a - Percent of population that identifies as being one race and being only Asian.
+
+one_race_h - Percent of population that identifies as being one race and being only Native Hawaiian or Pacific Islander.
+
+one_race_other - Percent of population that identifies as being one race and being a different race not previously mentioned.
+
+two_races - Percent of population that identifies as being two or more races.
+
+hispanic - Percent of population that identifies as being Hispanic or Latino regardless of race.
+
+households - Number of households.
+
+h_under6_both_work - Number of households with children under 6 years old with two parents that are both working.
+
+h_under6_f_work - Number of households with children under 6 years old with two parents with only the father working.
+
+h_under6_m_work - Number of households with children under 6 years old with two parents with only the mother working.
+
+h_under6_single_m - Number of households with children under 6 years old with a single mother.
+
+h_6to17_both_work - Number of households with children between 6 and 17 years old with two parents that are both working.
+
+h_6to17_fwork - Number of households with children between 6 and 17 years old with two parents with only the father working.
+
+h_6to17_mwork - Number of households with children between 6 and 17 years old with two parents with only the mother working.
+
+h_6to17_single_m - Number of households with children between 6 and 17 years old with a single mother.
+
+emp_m - Percent of civilians employed in management, business, science, and arts occupations aged 16 years old or older in the county.
+
+memp_m - Percent of male civilians employed in management, business, science, and arts occupations aged 16 years old or older in the county.
+
+femp_m - Percent of female civilians employed in management, business, science, and arts occupations aged 16 years old or older in the county.
+
+emp_service - Percent of civilians employed in service occupations aged 16 years old and older in the county.
+
+memp_service - Percent of male civilians employed in service occupations aged 16 years old and older in the county.
+
+femp_service - Percent of female civilians employed in service occupations aged 16 years old and older in the county.
+
+emp_sales - Percent of civilians employed in sales and office occupations aged 16 years old and older in the county.
+
+memp_sales - Percent of male civilians employed in sales and office occupations aged 16 years old and older in the county.
+
+femp_sales - Percent of female civilians employed in sales and office occupations aged 16 years old and older in the county.
+
+emp_n - Percent of civilians employed in natural resources, construction, and maintenance occupations aged 16 years old and older in the county.
+
+memp_n - Percent of male civilians employed in natural resources, construction, and maintenance occupations aged 16 years old and older in the county.
+
+femp_n - Percent of female civilians employed in natural resources, construction, and maintenance occupations aged 16 years old and older in the county.
+
+emp_p - Percent of civilians employed in production, transportation, and material moving occupations aged 16 years old and older in the county.
+
+memp_p - Percent of male civilians employed in production, transportation, and material moving occupations aged 16 years old and older in the county.
+
+femp_p - Percent of female civilians employed in production, transportation, and material moving occupations aged 16 years old and older in the county.
+
+mcsa - Weekly, full-time median price charged for Center-Based Care for those who are school age based on the results reported in the market rate survey report for the county or the rate zone/cluster to which the county is assigned.
+
+mfccsa - Weekly, full-time median price charged for Family Childcare for those who are school age based on the results reported in the market rate survey report for the county or the rate zone/cluster to which the county is assigned.
+
+mc_infant - Aggregated weekly, full-time median price charged for Center-based Care for infants (i.e. aged 0 through 23 months).
+
+mc_toddler - Aggregated weekly, full-time median price charged for Center-based Care for toddlers (i.e. aged 24 through 35 months).
+
+mc_preschool - Aggregated weekly, full-time median price charged for Center-based Care for preschoolers (i.e. aged 36 through 54 months).
+
+mfcc_infant - Aggregated weekly, full-time median price charged for Family Childcare for infants (i.e. aged 0 through 23 months).
+
+mfcc_toddler - Aggregated weekly, full-time median price charged for Family Childcare for toddlers (i.e. aged 24 through 35 months).
+
+mfcc_preschool - Aggregated weekly, full-time median price charged for Family Childcare for preschoolers (i.e. aged 36 through 54 months).
+
+
+
+childcare_costs data fields:
+
+
+county_fips_code - Four- or five-digit number that uniquely identifies the county in a state. The first two digits (for five-digit numbers) or 1 digit (for four-digit numbers) refer to the FIPS code of the state to which the county belongs.
+
+county_name - The full name of the county.
+
+state_name - The full name of the state in which the county is found.
+
+state_abbreviation - The two-letter state abbreviation.

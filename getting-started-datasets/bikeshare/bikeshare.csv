@@ -1,0 +1,732 @@
+index,season,year,month,holiday,weekday,workingday,weather,casual_users,registered_users,total_users
+1,winter,2011,1,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,331,654,985
+2,winter,2011,1,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,131,670,801
+3,winter,2011,1,nonholiday,Monday,workingday,Clear to partly cloudy,120,1229,1349
+4,winter,2011,1,nonholiday,Tuesday,workingday,Clear to partly cloudy,108,1454,1562
+5,winter,2011,1,nonholiday,Wednesday,workingday,Clear to partly cloudy,82,1518,1600
+6,winter,2011,1,nonholiday,Thursday,workingday,Clear to partly cloudy,88,1518,1606
+7,winter,2011,1,nonholiday,Friday,workingday,Misty to misty with clouds,148,1362,1510
+8,winter,2011,1,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,68,891,959
+9,winter,2011,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,54,768,822
+10,winter,2011,1,nonholiday,Monday,workingday,Clear to partly cloudy,41,1280,1321
+11,winter,2011,1,nonholiday,Tuesday,workingday,Misty to misty with clouds,43,1220,1263
+12,winter,2011,1,nonholiday,Wednesday,workingday,Clear to partly cloudy,25,1137,1162
+13,winter,2011,1,nonholiday,Thursday,workingday,Clear to partly cloudy,38,1368,1406
+14,winter,2011,1,nonholiday,Friday,workingday,Clear to partly cloudy,54,1367,1421
+15,winter,2011,1,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,222,1026,1248
+16,winter,2011,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,251,953,1204
+17,winter,2011,1,holiday,Monday,nonworkingday,Misty to misty with clouds,117,883,1000
+18,winter,2011,1,nonholiday,Tuesday,workingday,Misty to misty with clouds,9,674,683
+19,winter,2011,1,nonholiday,Wednesday,workingday,Misty to misty with clouds,78,1572,1650
+20,winter,2011,1,nonholiday,Thursday,workingday,Misty to misty with clouds,83,1844,1927
+21,winter,2011,1,nonholiday,Friday,workingday,Clear to partly cloudy,75,1468,1543
+22,winter,2011,1,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,93,888,981
+23,winter,2011,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,150,836,986
+24,winter,2011,1,nonholiday,Monday,workingday,Clear to partly cloudy,86,1330,1416
+25,winter,2011,1,nonholiday,Tuesday,workingday,Misty to misty with clouds,186,1799,1985
+26,winter,2011,1,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,34,472,506
+27,winter,2011,1,nonholiday,Thursday,workingday,Clear to partly cloudy,15,416,431
+28,winter,2011,1,nonholiday,Friday,workingday,Misty to misty with clouds,38,1129,1167
+29,winter,2011,1,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,123,975,1098
+30,winter,2011,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,140,956,1096
+31,winter,2011,1,nonholiday,Monday,workingday,Misty to misty with clouds,42,1459,1501
+32,winter,2011,2,nonholiday,Tuesday,workingday,Misty to misty with clouds,47,1313,1360
+33,winter,2011,2,nonholiday,Wednesday,workingday,Misty to misty with clouds,72,1454,1526
+34,winter,2011,2,nonholiday,Thursday,workingday,Clear to partly cloudy,61,1489,1550
+35,winter,2011,2,nonholiday,Friday,workingday,Misty to misty with clouds,88,1620,1708
+36,winter,2011,2,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,100,905,1005
+37,winter,2011,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,354,1269,1623
+38,winter,2011,2,nonholiday,Monday,workingday,Clear to partly cloudy,120,1592,1712
+39,winter,2011,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,64,1466,1530
+40,winter,2011,2,nonholiday,Wednesday,workingday,Misty to misty with clouds,53,1552,1605
+41,winter,2011,2,nonholiday,Thursday,workingday,Clear to partly cloudy,47,1491,1538
+42,winter,2011,2,nonholiday,Friday,workingday,Clear to partly cloudy,149,1597,1746
+43,winter,2011,2,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,288,1184,1472
+44,winter,2011,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,397,1192,1589
+45,winter,2011,2,nonholiday,Monday,workingday,Clear to partly cloudy,208,1705,1913
+46,winter,2011,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,140,1675,1815
+47,winter,2011,2,nonholiday,Wednesday,workingday,Clear to partly cloudy,218,1897,2115
+48,winter,2011,2,nonholiday,Thursday,workingday,Clear to partly cloudy,259,2216,2475
+49,winter,2011,2,nonholiday,Friday,workingday,Clear to partly cloudy,579,2348,2927
+50,winter,2011,2,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,532,1103,1635
+51,winter,2011,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,639,1173,1812
+52,winter,2011,2,holiday,Monday,nonworkingday,Misty to misty with clouds,195,912,1107
+53,winter,2011,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,74,1376,1450
+54,winter,2011,2,nonholiday,Wednesday,workingday,Clear to partly cloudy,139,1778,1917
+55,winter,2011,2,nonholiday,Thursday,workingday,Misty to misty with clouds,100,1707,1807
+56,winter,2011,2,nonholiday,Friday,workingday,Misty to misty with clouds,120,1341,1461
+57,winter,2011,2,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,424,1545,1969
+58,winter,2011,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,694,1708,2402
+59,winter,2011,2,nonholiday,Monday,workingday,Misty to misty with clouds,81,1365,1446
+60,winter,2011,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,137,1714,1851
+61,winter,2011,3,nonholiday,Wednesday,workingday,Clear to partly cloudy,231,1903,2134
+62,winter,2011,3,nonholiday,Thursday,workingday,Clear to partly cloudy,123,1562,1685
+63,winter,2011,3,nonholiday,Friday,workingday,Misty to misty with clouds,214,1730,1944
+64,winter,2011,3,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,640,1437,2077
+65,winter,2011,3,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,114,491,605
+66,winter,2011,3,nonholiday,Monday,workingday,Clear to partly cloudy,244,1628,1872
+67,winter,2011,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,316,1817,2133
+68,winter,2011,3,nonholiday,Wednesday,workingday,Misty to misty with clouds,191,1700,1891
+69,winter,2011,3,nonholiday,Thursday,workingday,Light rain to thunderstorms or light snow,46,577,623
+70,winter,2011,3,nonholiday,Friday,workingday,Misty to misty with clouds,247,1730,1977
+71,winter,2011,3,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,724,1408,2132
+72,winter,2011,3,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,982,1435,2417
+73,winter,2011,3,nonholiday,Monday,workingday,Clear to partly cloudy,359,1687,2046
+74,winter,2011,3,nonholiday,Tuesday,workingday,Misty to misty with clouds,289,1767,2056
+75,winter,2011,3,nonholiday,Wednesday,workingday,Misty to misty with clouds,321,1871,2192
+76,winter,2011,3,nonholiday,Thursday,workingday,Clear to partly cloudy,424,2320,2744
+77,winter,2011,3,nonholiday,Friday,workingday,Clear to partly cloudy,884,2355,3239
+78,winter,2011,3,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1424,1693,3117
+79,winter,2011,3,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1047,1424,2471
+80,spring,2011,3,nonholiday,Monday,workingday,Misty to misty with clouds,401,1676,2077
+81,spring,2011,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,460,2243,2703
+82,spring,2011,3,nonholiday,Wednesday,workingday,Misty to misty with clouds,203,1918,2121
+83,spring,2011,3,nonholiday,Thursday,workingday,Misty to misty with clouds,166,1699,1865
+84,spring,2011,3,nonholiday,Friday,workingday,Clear to partly cloudy,300,1910,2210
+85,spring,2011,3,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,981,1515,2496
+86,spring,2011,3,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,472,1221,1693
+87,spring,2011,3,nonholiday,Monday,workingday,Clear to partly cloudy,222,1806,2028
+88,spring,2011,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,317,2108,2425
+89,spring,2011,3,nonholiday,Wednesday,workingday,Misty to misty with clouds,168,1368,1536
+90,spring,2011,3,nonholiday,Thursday,workingday,Light rain to thunderstorms or light snow,179,1506,1685
+91,spring,2011,4,nonholiday,Friday,workingday,Misty to misty with clouds,307,1920,2227
+92,spring,2011,4,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,898,1354,2252
+93,spring,2011,4,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1651,1598,3249
+94,spring,2011,4,nonholiday,Monday,workingday,Clear to partly cloudy,734,2381,3115
+95,spring,2011,4,nonholiday,Tuesday,workingday,Misty to misty with clouds,167,1628,1795
+96,spring,2011,4,nonholiday,Wednesday,workingday,Clear to partly cloudy,413,2395,2808
+97,spring,2011,4,nonholiday,Thursday,workingday,Clear to partly cloudy,571,2570,3141
+98,spring,2011,4,nonholiday,Friday,workingday,Misty to misty with clouds,172,1299,1471
+99,spring,2011,4,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,879,1576,2455
+100,spring,2011,4,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1188,1707,2895
+101,spring,2011,4,nonholiday,Monday,workingday,Misty to misty with clouds,855,2493,3348
+102,spring,2011,4,nonholiday,Tuesday,workingday,Misty to misty with clouds,257,1777,2034
+103,spring,2011,4,nonholiday,Wednesday,workingday,Misty to misty with clouds,209,1953,2162
+104,spring,2011,4,nonholiday,Thursday,workingday,Clear to partly cloudy,529,2738,3267
+105,spring,2011,4,holiday,Friday,nonworkingday,Clear to partly cloudy,642,2484,3126
+106,spring,2011,4,nonholiday,Saturday,nonworkingday,Light rain to thunderstorms or light snow,121,674,795
+107,spring,2011,4,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1558,2186,3744
+108,spring,2011,4,nonholiday,Monday,workingday,Clear to partly cloudy,669,2760,3429
+109,spring,2011,4,nonholiday,Tuesday,workingday,Misty to misty with clouds,409,2795,3204
+110,spring,2011,4,nonholiday,Wednesday,workingday,Clear to partly cloudy,613,3331,3944
+111,spring,2011,4,nonholiday,Thursday,workingday,Clear to partly cloudy,745,3444,4189
+112,spring,2011,4,nonholiday,Friday,workingday,Misty to misty with clouds,177,1506,1683
+113,spring,2011,4,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1462,2574,4036
+114,spring,2011,4,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1710,2481,4191
+115,spring,2011,4,nonholiday,Monday,workingday,Clear to partly cloudy,773,3300,4073
+116,spring,2011,4,nonholiday,Tuesday,workingday,Clear to partly cloudy,678,3722,4400
+117,spring,2011,4,nonholiday,Wednesday,workingday,Misty to misty with clouds,547,3325,3872
+118,spring,2011,4,nonholiday,Thursday,workingday,Misty to misty with clouds,569,3489,4058
+119,spring,2011,4,nonholiday,Friday,workingday,Clear to partly cloudy,878,3717,4595
+120,spring,2011,4,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1965,3347,5312
+121,spring,2011,5,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1138,2213,3351
+122,spring,2011,5,nonholiday,Monday,workingday,Misty to misty with clouds,847,3554,4401
+123,spring,2011,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,603,3848,4451
+124,spring,2011,5,nonholiday,Wednesday,workingday,Misty to misty with clouds,255,2378,2633
+125,spring,2011,5,nonholiday,Thursday,workingday,Clear to partly cloudy,614,3819,4433
+126,spring,2011,5,nonholiday,Friday,workingday,Clear to partly cloudy,894,3714,4608
+127,spring,2011,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1612,3102,4714
+128,spring,2011,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1401,2932,4333
+129,spring,2011,5,nonholiday,Monday,workingday,Clear to partly cloudy,664,3698,4362
+130,spring,2011,5,nonholiday,Tuesday,workingday,Clear to partly cloudy,694,4109,4803
+131,spring,2011,5,nonholiday,Wednesday,workingday,Clear to partly cloudy,550,3632,4182
+132,spring,2011,5,nonholiday,Thursday,workingday,Clear to partly cloudy,695,4169,4864
+133,spring,2011,5,nonholiday,Friday,workingday,Misty to misty with clouds,692,3413,4105
+134,spring,2011,5,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,902,2507,3409
+135,spring,2011,5,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1582,2971,4553
+136,spring,2011,5,nonholiday,Monday,workingday,Clear to partly cloudy,773,3185,3958
+137,spring,2011,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,678,3445,4123
+138,spring,2011,5,nonholiday,Wednesday,workingday,Misty to misty with clouds,536,3319,3855
+139,spring,2011,5,nonholiday,Thursday,workingday,Misty to misty with clouds,735,3840,4575
+140,spring,2011,5,nonholiday,Friday,workingday,Clear to partly cloudy,909,4008,4917
+141,spring,2011,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2258,3547,5805
+142,spring,2011,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1576,3084,4660
+143,spring,2011,5,nonholiday,Monday,workingday,Misty to misty with clouds,836,3438,4274
+144,spring,2011,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,659,3833,4492
+145,spring,2011,5,nonholiday,Wednesday,workingday,Clear to partly cloudy,740,4238,4978
+146,spring,2011,5,nonholiday,Thursday,workingday,Clear to partly cloudy,758,3919,4677
+147,spring,2011,5,nonholiday,Friday,workingday,Clear to partly cloudy,871,3808,4679
+148,spring,2011,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2001,2757,4758
+149,spring,2011,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2355,2433,4788
+150,spring,2011,5,holiday,Monday,nonworkingday,Clear to partly cloudy,1549,2549,4098
+151,spring,2011,5,nonholiday,Tuesday,workingday,Clear to partly cloudy,673,3309,3982
+152,spring,2011,6,nonholiday,Wednesday,workingday,Misty to misty with clouds,513,3461,3974
+153,spring,2011,6,nonholiday,Thursday,workingday,Clear to partly cloudy,736,4232,4968
+154,spring,2011,6,nonholiday,Friday,workingday,Clear to partly cloudy,898,4414,5312
+155,spring,2011,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1869,3473,5342
+156,spring,2011,6,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1685,3221,4906
+157,spring,2011,6,nonholiday,Monday,workingday,Clear to partly cloudy,673,3875,4548
+158,spring,2011,6,nonholiday,Tuesday,workingday,Clear to partly cloudy,763,4070,4833
+159,spring,2011,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,676,3725,4401
+160,spring,2011,6,nonholiday,Thursday,workingday,Misty to misty with clouds,563,3352,3915
+161,spring,2011,6,nonholiday,Friday,workingday,Clear to partly cloudy,815,3771,4586
+162,spring,2011,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1729,3237,4966
+163,spring,2011,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1467,2993,4460
+164,spring,2011,6,nonholiday,Monday,workingday,Clear to partly cloudy,863,4157,5020
+165,spring,2011,6,nonholiday,Tuesday,workingday,Clear to partly cloudy,727,4164,4891
+166,spring,2011,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,769,4411,5180
+167,spring,2011,6,nonholiday,Thursday,workingday,Misty to misty with clouds,545,3222,3767
+168,spring,2011,6,nonholiday,Friday,workingday,Clear to partly cloudy,863,3981,4844
+169,spring,2011,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1807,3312,5119
+170,spring,2011,6,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1639,3105,4744
+171,spring,2011,6,nonholiday,Monday,workingday,Misty to misty with clouds,699,3311,4010
+172,summer,2011,6,nonholiday,Tuesday,workingday,Misty to misty with clouds,774,4061,4835
+173,summer,2011,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,661,3846,4507
+174,summer,2011,6,nonholiday,Thursday,workingday,Misty to misty with clouds,746,4044,4790
+175,summer,2011,6,nonholiday,Friday,workingday,Clear to partly cloudy,969,4022,4991
+176,summer,2011,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1782,3420,5202
+177,summer,2011,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1920,3385,5305
+178,summer,2011,6,nonholiday,Monday,workingday,Misty to misty with clouds,854,3854,4708
+179,summer,2011,6,nonholiday,Tuesday,workingday,Clear to partly cloudy,732,3916,4648
+180,summer,2011,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,848,4377,5225
+181,summer,2011,6,nonholiday,Thursday,workingday,Clear to partly cloudy,1027,4488,5515
+182,summer,2011,7,nonholiday,Friday,workingday,Clear to partly cloudy,1246,4116,5362
+183,summer,2011,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2204,2915,5119
+184,summer,2011,7,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2282,2367,4649
+185,summer,2011,7,holiday,Monday,nonworkingday,Misty to misty with clouds,3065,2978,6043
+186,summer,2011,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,1031,3634,4665
+187,summer,2011,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,784,3845,4629
+188,summer,2011,7,nonholiday,Thursday,workingday,Clear to partly cloudy,754,3838,4592
+189,summer,2011,7,nonholiday,Friday,workingday,Misty to misty with clouds,692,3348,4040
+190,summer,2011,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1988,3348,5336
+191,summer,2011,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1743,3138,4881
+192,summer,2011,7,nonholiday,Monday,workingday,Clear to partly cloudy,723,3363,4086
+193,summer,2011,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,662,3596,4258
+194,summer,2011,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,748,3594,4342
+195,summer,2011,7,nonholiday,Thursday,workingday,Clear to partly cloudy,888,4196,5084
+196,summer,2011,7,nonholiday,Friday,workingday,Clear to partly cloudy,1318,4220,5538
+197,summer,2011,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2418,3505,5923
+198,summer,2011,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2006,3296,5302
+199,summer,2011,7,nonholiday,Monday,workingday,Clear to partly cloudy,841,3617,4458
+200,summer,2011,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,752,3789,4541
+201,summer,2011,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,644,3688,4332
+202,summer,2011,7,nonholiday,Thursday,workingday,Misty to misty with clouds,632,3152,3784
+203,summer,2011,7,nonholiday,Friday,workingday,Clear to partly cloudy,562,2825,3387
+204,summer,2011,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,987,2298,3285
+205,summer,2011,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1050,2556,3606
+206,summer,2011,7,nonholiday,Monday,workingday,Clear to partly cloudy,568,3272,3840
+207,summer,2011,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,750,3840,4590
+208,summer,2011,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,755,3901,4656
+209,summer,2011,7,nonholiday,Thursday,workingday,Clear to partly cloudy,606,3784,4390
+210,summer,2011,7,nonholiday,Friday,workingday,Clear to partly cloudy,670,3176,3846
+211,summer,2011,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1559,2916,4475
+212,summer,2011,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1524,2778,4302
+213,summer,2011,8,nonholiday,Monday,workingday,Clear to partly cloudy,729,3537,4266
+214,summer,2011,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,801,4044,4845
+215,summer,2011,8,nonholiday,Wednesday,workingday,Misty to misty with clouds,467,3107,3574
+216,summer,2011,8,nonholiday,Thursday,workingday,Misty to misty with clouds,799,3777,4576
+217,summer,2011,8,nonholiday,Friday,workingday,Clear to partly cloudy,1023,3843,4866
+218,summer,2011,8,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1521,2773,4294
+219,summer,2011,8,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1298,2487,3785
+220,summer,2011,8,nonholiday,Monday,workingday,Clear to partly cloudy,846,3480,4326
+221,summer,2011,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,907,3695,4602
+222,summer,2011,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,884,3896,4780
+223,summer,2011,8,nonholiday,Thursday,workingday,Clear to partly cloudy,812,3980,4792
+224,summer,2011,8,nonholiday,Friday,workingday,Clear to partly cloudy,1051,3854,4905
+225,summer,2011,8,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1504,2646,4150
+226,summer,2011,8,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1338,2482,3820
+227,summer,2011,8,nonholiday,Monday,workingday,Clear to partly cloudy,775,3563,4338
+228,summer,2011,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,721,4004,4725
+229,summer,2011,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,668,4026,4694
+230,summer,2011,8,nonholiday,Thursday,workingday,Clear to partly cloudy,639,3166,3805
+231,summer,2011,8,nonholiday,Friday,workingday,Misty to misty with clouds,797,3356,4153
+232,summer,2011,8,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1914,3277,5191
+233,summer,2011,8,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1249,2624,3873
+234,summer,2011,8,nonholiday,Monday,workingday,Clear to partly cloudy,833,3925,4758
+235,summer,2011,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,1281,4614,5895
+236,summer,2011,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,949,4181,5130
+237,summer,2011,8,nonholiday,Thursday,workingday,Misty to misty with clouds,435,3107,3542
+238,summer,2011,8,nonholiday,Friday,workingday,Clear to partly cloudy,768,3893,4661
+239,summer,2011,8,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,226,889,1115
+240,summer,2011,8,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1415,2919,4334
+241,summer,2011,8,nonholiday,Monday,workingday,Clear to partly cloudy,729,3905,4634
+242,summer,2011,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,775,4429,5204
+243,summer,2011,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,688,4370,5058
+244,summer,2011,9,nonholiday,Thursday,workingday,Clear to partly cloudy,783,4332,5115
+245,summer,2011,9,nonholiday,Friday,workingday,Misty to misty with clouds,875,3852,4727
+246,summer,2011,9,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1935,2549,4484
+247,summer,2011,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2521,2419,4940
+248,summer,2011,9,holiday,Monday,nonworkingday,Misty to misty with clouds,1236,2115,3351
+249,summer,2011,9,nonholiday,Tuesday,workingday,Light rain to thunderstorms or light snow,204,2506,2710
+250,summer,2011,9,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,118,1878,1996
+251,summer,2011,9,nonholiday,Thursday,workingday,Light rain to thunderstorms or light snow,153,1689,1842
+252,summer,2011,9,nonholiday,Friday,workingday,Misty to misty with clouds,417,3127,3544
+253,summer,2011,9,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1750,3595,5345
+254,summer,2011,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1633,3413,5046
+255,summer,2011,9,nonholiday,Monday,workingday,Clear to partly cloudy,690,4023,4713
+256,summer,2011,9,nonholiday,Tuesday,workingday,Clear to partly cloudy,701,4062,4763
+257,summer,2011,9,nonholiday,Wednesday,workingday,Clear to partly cloudy,647,4138,4785
+258,summer,2011,9,nonholiday,Thursday,workingday,Misty to misty with clouds,428,3231,3659
+259,summer,2011,9,nonholiday,Friday,workingday,Misty to misty with clouds,742,4018,4760
+260,summer,2011,9,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1434,3077,4511
+261,summer,2011,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1353,2921,4274
+262,summer,2011,9,nonholiday,Monday,workingday,Misty to misty with clouds,691,3848,4539
+263,summer,2011,9,nonholiday,Tuesday,workingday,Misty to misty with clouds,438,3203,3641
+264,summer,2011,9,nonholiday,Wednesday,workingday,Misty to misty with clouds,539,3813,4352
+265,summer,2011,9,nonholiday,Thursday,workingday,Misty to misty with clouds,555,4240,4795
+266,fall,2011,9,nonholiday,Friday,workingday,Misty to misty with clouds,258,2137,2395
+267,fall,2011,9,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1776,3647,5423
+268,fall,2011,9,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1544,3466,5010
+269,fall,2011,9,nonholiday,Monday,workingday,Misty to misty with clouds,684,3946,4630
+270,fall,2011,9,nonholiday,Tuesday,workingday,Misty to misty with clouds,477,3643,4120
+271,fall,2011,9,nonholiday,Wednesday,workingday,Misty to misty with clouds,480,3427,3907
+272,fall,2011,9,nonholiday,Thursday,workingday,Clear to partly cloudy,653,4186,4839
+273,fall,2011,9,nonholiday,Friday,workingday,Clear to partly cloudy,830,4372,5202
+274,fall,2011,10,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,480,1949,2429
+275,fall,2011,10,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,616,2302,2918
+276,fall,2011,10,nonholiday,Monday,workingday,Misty to misty with clouds,330,3240,3570
+277,fall,2011,10,nonholiday,Tuesday,workingday,Clear to partly cloudy,486,3970,4456
+278,fall,2011,10,nonholiday,Wednesday,workingday,Clear to partly cloudy,559,4267,4826
+279,fall,2011,10,nonholiday,Thursday,workingday,Clear to partly cloudy,639,4126,4765
+280,fall,2011,10,nonholiday,Friday,workingday,Clear to partly cloudy,949,4036,4985
+281,fall,2011,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2235,3174,5409
+282,fall,2011,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2397,3114,5511
+283,fall,2011,10,holiday,Monday,nonworkingday,Clear to partly cloudy,1514,3603,5117
+284,fall,2011,10,nonholiday,Tuesday,workingday,Misty to misty with clouds,667,3896,4563
+285,fall,2011,10,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,217,2199,2416
+286,fall,2011,10,nonholiday,Thursday,workingday,Misty to misty with clouds,290,2623,2913
+287,fall,2011,10,nonholiday,Friday,workingday,Misty to misty with clouds,529,3115,3644
+288,fall,2011,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1899,3318,5217
+289,fall,2011,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1748,3293,5041
+290,fall,2011,10,nonholiday,Monday,workingday,Clear to partly cloudy,713,3857,4570
+291,fall,2011,10,nonholiday,Tuesday,workingday,Misty to misty with clouds,637,4111,4748
+292,fall,2011,10,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,254,2170,2424
+293,fall,2011,10,nonholiday,Thursday,workingday,Clear to partly cloudy,471,3724,4195
+294,fall,2011,10,nonholiday,Friday,workingday,Clear to partly cloudy,676,3628,4304
+295,fall,2011,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1499,2809,4308
+296,fall,2011,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1619,2762,4381
+297,fall,2011,10,nonholiday,Monday,workingday,Clear to partly cloudy,699,3488,4187
+298,fall,2011,10,nonholiday,Tuesday,workingday,Clear to partly cloudy,695,3992,4687
+299,fall,2011,10,nonholiday,Wednesday,workingday,Misty to misty with clouds,404,3490,3894
+300,fall,2011,10,nonholiday,Thursday,workingday,Misty to misty with clouds,240,2419,2659
+301,fall,2011,10,nonholiday,Friday,workingday,Misty to misty with clouds,456,3291,3747
+302,fall,2011,10,nonholiday,Saturday,nonworkingday,Light rain to thunderstorms or light snow,57,570,627
+303,fall,2011,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,885,2446,3331
+304,fall,2011,10,nonholiday,Monday,workingday,Clear to partly cloudy,362,3307,3669
+305,fall,2011,11,nonholiday,Tuesday,workingday,Clear to partly cloudy,410,3658,4068
+306,fall,2011,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,370,3816,4186
+307,fall,2011,11,nonholiday,Thursday,workingday,Clear to partly cloudy,318,3656,3974
+308,fall,2011,11,nonholiday,Friday,workingday,Misty to misty with clouds,470,3576,4046
+309,fall,2011,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1156,2770,3926
+310,fall,2011,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,952,2697,3649
+311,fall,2011,11,nonholiday,Monday,workingday,Clear to partly cloudy,373,3662,4035
+312,fall,2011,11,nonholiday,Tuesday,workingday,Clear to partly cloudy,376,3829,4205
+313,fall,2011,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,305,3804,4109
+314,fall,2011,11,nonholiday,Thursday,workingday,Misty to misty with clouds,190,2743,2933
+315,fall,2011,11,holiday,Friday,nonworkingday,Clear to partly cloudy,440,2928,3368
+316,fall,2011,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1275,2792,4067
+317,fall,2011,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1004,2713,3717
+318,fall,2011,11,nonholiday,Monday,workingday,Clear to partly cloudy,595,3891,4486
+319,fall,2011,11,nonholiday,Tuesday,workingday,Misty to misty with clouds,449,3746,4195
+320,fall,2011,11,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,145,1672,1817
+321,fall,2011,11,nonholiday,Thursday,workingday,Misty to misty with clouds,139,2914,3053
+322,fall,2011,11,nonholiday,Friday,workingday,Clear to partly cloudy,245,3147,3392
+323,fall,2011,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,943,2720,3663
+324,fall,2011,11,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,787,2733,3520
+325,fall,2011,11,nonholiday,Monday,workingday,Light rain to thunderstorms or light snow,220,2545,2765
+326,fall,2011,11,nonholiday,Tuesday,workingday,Light rain to thunderstorms or light snow,69,1538,1607
+327,fall,2011,11,nonholiday,Wednesday,workingday,Misty to misty with clouds,112,2454,2566
+328,fall,2011,11,holiday,Thursday,nonworkingday,Clear to partly cloudy,560,935,1495
+329,fall,2011,11,nonholiday,Friday,workingday,Clear to partly cloudy,1095,1697,2792
+330,fall,2011,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1249,1819,3068
+331,fall,2011,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,810,2261,3071
+332,fall,2011,11,nonholiday,Monday,workingday,Clear to partly cloudy,253,3614,3867
+333,fall,2011,11,nonholiday,Tuesday,workingday,Misty to misty with clouds,96,2818,2914
+334,fall,2011,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,188,3425,3613
+335,fall,2011,12,nonholiday,Thursday,workingday,Clear to partly cloudy,182,3545,3727
+336,fall,2011,12,nonholiday,Friday,workingday,Clear to partly cloudy,268,3672,3940
+337,fall,2011,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,706,2908,3614
+338,fall,2011,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,634,2851,3485
+339,fall,2011,12,nonholiday,Monday,workingday,Misty to misty with clouds,233,3578,3811
+340,fall,2011,12,nonholiday,Tuesday,workingday,Light rain to thunderstorms or light snow,126,2468,2594
+341,fall,2011,12,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,50,655,705
+342,fall,2011,12,nonholiday,Thursday,workingday,Clear to partly cloudy,150,3172,3322
+343,fall,2011,12,nonholiday,Friday,workingday,Clear to partly cloudy,261,3359,3620
+344,fall,2011,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,502,2688,3190
+345,fall,2011,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,377,2366,2743
+346,fall,2011,12,nonholiday,Monday,workingday,Clear to partly cloudy,143,3167,3310
+347,fall,2011,12,nonholiday,Tuesday,workingday,Clear to partly cloudy,155,3368,3523
+348,fall,2011,12,nonholiday,Wednesday,workingday,Misty to misty with clouds,178,3562,3740
+349,fall,2011,12,nonholiday,Thursday,workingday,Misty to misty with clouds,181,3528,3709
+350,fall,2011,12,nonholiday,Friday,workingday,Misty to misty with clouds,178,3399,3577
+351,fall,2011,12,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,275,2464,2739
+352,fall,2011,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,220,2211,2431
+353,fall,2011,12,nonholiday,Monday,workingday,Clear to partly cloudy,260,3143,3403
+354,fall,2011,12,nonholiday,Tuesday,workingday,Misty to misty with clouds,216,3534,3750
+355,winter,2011,12,nonholiday,Wednesday,workingday,Misty to misty with clouds,107,2553,2660
+356,winter,2011,12,nonholiday,Thursday,workingday,Misty to misty with clouds,227,2841,3068
+357,winter,2011,12,nonholiday,Friday,workingday,Clear to partly cloudy,163,2046,2209
+358,winter,2011,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,155,856,1011
+359,winter,2011,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,303,451,754
+360,winter,2011,12,holiday,Monday,nonworkingday,Clear to partly cloudy,430,887,1317
+361,winter,2011,12,nonholiday,Tuesday,workingday,Misty to misty with clouds,103,1059,1162
+362,winter,2011,12,nonholiday,Wednesday,workingday,Clear to partly cloudy,255,2047,2302
+363,winter,2011,12,nonholiday,Thursday,workingday,Clear to partly cloudy,254,2169,2423
+364,winter,2011,12,nonholiday,Friday,workingday,Clear to partly cloudy,491,2508,2999
+365,winter,2011,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,665,1820,2485
+366,winter,2012,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,686,1608,2294
+367,winter,2012,1,holiday,Monday,nonworkingday,Clear to partly cloudy,244,1707,1951
+368,winter,2012,1,nonholiday,Tuesday,workingday,Clear to partly cloudy,89,2147,2236
+369,winter,2012,1,nonholiday,Wednesday,workingday,Misty to misty with clouds,95,2273,2368
+370,winter,2012,1,nonholiday,Thursday,workingday,Clear to partly cloudy,140,3132,3272
+371,winter,2012,1,nonholiday,Friday,workingday,Clear to partly cloudy,307,3791,4098
+372,winter,2012,1,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1070,3451,4521
+373,winter,2012,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,599,2826,3425
+374,winter,2012,1,nonholiday,Monday,workingday,Misty to misty with clouds,106,2270,2376
+375,winter,2012,1,nonholiday,Tuesday,workingday,Clear to partly cloudy,173,3425,3598
+376,winter,2012,1,nonholiday,Wednesday,workingday,Misty to misty with clouds,92,2085,2177
+377,winter,2012,1,nonholiday,Thursday,workingday,Misty to misty with clouds,269,3828,4097
+378,winter,2012,1,nonholiday,Friday,workingday,Clear to partly cloudy,174,3040,3214
+379,winter,2012,1,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,333,2160,2493
+380,winter,2012,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,284,2027,2311
+381,winter,2012,1,holiday,Monday,nonworkingday,Clear to partly cloudy,217,2081,2298
+382,winter,2012,1,nonholiday,Tuesday,workingday,Misty to misty with clouds,127,2808,2935
+383,winter,2012,1,nonholiday,Wednesday,workingday,Clear to partly cloudy,109,3267,3376
+384,winter,2012,1,nonholiday,Thursday,workingday,Clear to partly cloudy,130,3162,3292
+385,winter,2012,1,nonholiday,Friday,workingday,Misty to misty with clouds,115,3048,3163
+386,winter,2012,1,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,67,1234,1301
+387,winter,2012,1,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,196,1781,1977
+388,winter,2012,1,nonholiday,Monday,workingday,Misty to misty with clouds,145,2287,2432
+389,winter,2012,1,nonholiday,Tuesday,workingday,Clear to partly cloudy,439,3900,4339
+390,winter,2012,1,nonholiday,Wednesday,workingday,Clear to partly cloudy,467,3803,4270
+391,winter,2012,1,nonholiday,Thursday,workingday,Misty to misty with clouds,244,3831,4075
+392,winter,2012,1,nonholiday,Friday,workingday,Misty to misty with clouds,269,3187,3456
+393,winter,2012,1,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,775,3248,4023
+394,winter,2012,1,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,558,2685,3243
+395,winter,2012,1,nonholiday,Monday,workingday,Clear to partly cloudy,126,3498,3624
+396,winter,2012,1,nonholiday,Tuesday,workingday,Clear to partly cloudy,324,4185,4509
+397,winter,2012,2,nonholiday,Wednesday,workingday,Clear to partly cloudy,304,4275,4579
+398,winter,2012,2,nonholiday,Thursday,workingday,Misty to misty with clouds,190,3571,3761
+399,winter,2012,2,nonholiday,Friday,workingday,Clear to partly cloudy,310,3841,4151
+400,winter,2012,2,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,384,2448,2832
+401,winter,2012,2,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,318,2629,2947
+402,winter,2012,2,nonholiday,Monday,workingday,Clear to partly cloudy,206,3578,3784
+403,winter,2012,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,199,4176,4375
+404,winter,2012,2,nonholiday,Wednesday,workingday,Misty to misty with clouds,109,2693,2802
+405,winter,2012,2,nonholiday,Thursday,workingday,Clear to partly cloudy,163,3667,3830
+406,winter,2012,2,nonholiday,Friday,workingday,Misty to misty with clouds,227,3604,3831
+407,winter,2012,2,nonholiday,Saturday,nonworkingday,Light rain to thunderstorms or light snow,192,1977,2169
+408,winter,2012,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,73,1456,1529
+409,winter,2012,2,nonholiday,Monday,workingday,Clear to partly cloudy,94,3328,3422
+410,winter,2012,2,nonholiday,Tuesday,workingday,Misty to misty with clouds,135,3787,3922
+411,winter,2012,2,nonholiday,Wednesday,workingday,Clear to partly cloudy,141,4028,4169
+412,winter,2012,2,nonholiday,Thursday,workingday,Misty to misty with clouds,74,2931,3005
+413,winter,2012,2,nonholiday,Friday,workingday,Clear to partly cloudy,349,3805,4154
+414,winter,2012,2,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1435,2883,4318
+415,winter,2012,2,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,618,2071,2689
+416,winter,2012,2,holiday,Monday,nonworkingday,Clear to partly cloudy,502,2627,3129
+417,winter,2012,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,163,3614,3777
+418,winter,2012,2,nonholiday,Wednesday,workingday,Clear to partly cloudy,394,4379,4773
+419,winter,2012,2,nonholiday,Thursday,workingday,Clear to partly cloudy,516,4546,5062
+420,winter,2012,2,nonholiday,Friday,workingday,Misty to misty with clouds,246,3241,3487
+421,winter,2012,2,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,317,2415,2732
+422,winter,2012,2,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,515,2874,3389
+423,winter,2012,2,nonholiday,Monday,workingday,Clear to partly cloudy,253,4069,4322
+424,winter,2012,2,nonholiday,Tuesday,workingday,Clear to partly cloudy,229,4134,4363
+425,winter,2012,2,nonholiday,Wednesday,workingday,Misty to misty with clouds,65,1769,1834
+426,winter,2012,3,nonholiday,Thursday,workingday,Clear to partly cloudy,325,4665,4990
+427,winter,2012,3,nonholiday,Friday,workingday,Misty to misty with clouds,246,2948,3194
+428,winter,2012,3,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,956,3110,4066
+429,winter,2012,3,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,710,2713,3423
+430,winter,2012,3,nonholiday,Monday,workingday,Clear to partly cloudy,203,3130,3333
+431,winter,2012,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,221,3735,3956
+432,winter,2012,3,nonholiday,Wednesday,workingday,Clear to partly cloudy,432,4484,4916
+433,winter,2012,3,nonholiday,Thursday,workingday,Clear to partly cloudy,486,4896,5382
+434,winter,2012,3,nonholiday,Friday,workingday,Misty to misty with clouds,447,4122,4569
+435,winter,2012,3,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,968,3150,4118
+436,winter,2012,3,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1658,3253,4911
+437,winter,2012,3,nonholiday,Monday,workingday,Clear to partly cloudy,838,4460,5298
+438,winter,2012,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,762,5085,5847
+439,winter,2012,3,nonholiday,Wednesday,workingday,Clear to partly cloudy,997,5315,6312
+440,winter,2012,3,nonholiday,Thursday,workingday,Clear to partly cloudy,1005,5187,6192
+441,winter,2012,3,nonholiday,Friday,workingday,Misty to misty with clouds,548,3830,4378
+442,winter,2012,3,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,3155,4681,7836
+443,winter,2012,3,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2207,3685,5892
+444,winter,2012,3,nonholiday,Monday,workingday,Clear to partly cloudy,982,5171,6153
+445,winter,2012,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,1051,5042,6093
+446,spring,2012,3,nonholiday,Wednesday,workingday,Misty to misty with clouds,1122,5108,6230
+447,spring,2012,3,nonholiday,Thursday,workingday,Clear to partly cloudy,1334,5537,6871
+448,spring,2012,3,nonholiday,Friday,workingday,Misty to misty with clouds,2469,5893,8362
+449,spring,2012,3,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1033,2339,3372
+450,spring,2012,3,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1532,3464,4996
+451,spring,2012,3,nonholiday,Monday,workingday,Clear to partly cloudy,795,4763,5558
+452,spring,2012,3,nonholiday,Tuesday,workingday,Clear to partly cloudy,531,4571,5102
+453,spring,2012,3,nonholiday,Wednesday,workingday,Clear to partly cloudy,674,5024,5698
+454,spring,2012,3,nonholiday,Thursday,workingday,Clear to partly cloudy,834,5299,6133
+455,spring,2012,3,nonholiday,Friday,workingday,Misty to misty with clouds,796,4663,5459
+456,spring,2012,3,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2301,3934,6235
+457,spring,2012,4,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2347,3694,6041
+458,spring,2012,4,nonholiday,Monday,workingday,Clear to partly cloudy,1208,4728,5936
+459,spring,2012,4,nonholiday,Tuesday,workingday,Clear to partly cloudy,1348,5424,6772
+460,spring,2012,4,nonholiday,Wednesday,workingday,Clear to partly cloudy,1058,5378,6436
+461,spring,2012,4,nonholiday,Thursday,workingday,Clear to partly cloudy,1192,5265,6457
+462,spring,2012,4,nonholiday,Friday,workingday,Clear to partly cloudy,1807,4653,6460
+463,spring,2012,4,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,3252,3605,6857
+464,spring,2012,4,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2230,2939,5169
+465,spring,2012,4,nonholiday,Monday,workingday,Clear to partly cloudy,905,4680,5585
+466,spring,2012,4,nonholiday,Tuesday,workingday,Clear to partly cloudy,819,5099,5918
+467,spring,2012,4,nonholiday,Wednesday,workingday,Clear to partly cloudy,482,4380,4862
+468,spring,2012,4,nonholiday,Thursday,workingday,Clear to partly cloudy,663,4746,5409
+469,spring,2012,4,nonholiday,Friday,workingday,Clear to partly cloudy,1252,5146,6398
+470,spring,2012,4,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2795,4665,7460
+471,spring,2012,4,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2846,4286,7132
+472,spring,2012,4,holiday,Monday,nonworkingday,Clear to partly cloudy,1198,5172,6370
+473,spring,2012,4,nonholiday,Tuesday,workingday,Clear to partly cloudy,989,5702,6691
+474,spring,2012,4,nonholiday,Wednesday,workingday,Misty to misty with clouds,347,4020,4367
+475,spring,2012,4,nonholiday,Thursday,workingday,Clear to partly cloudy,846,5719,6565
+476,spring,2012,4,nonholiday,Friday,workingday,Clear to partly cloudy,1340,5950,7290
+477,spring,2012,4,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2541,4083,6624
+478,spring,2012,4,nonholiday,Sunday,nonworkingday,Light rain to thunderstorms or light snow,120,907,1027
+479,spring,2012,4,nonholiday,Monday,workingday,Misty to misty with clouds,195,3019,3214
+480,spring,2012,4,nonholiday,Tuesday,workingday,Clear to partly cloudy,518,5115,5633
+481,spring,2012,4,nonholiday,Wednesday,workingday,Clear to partly cloudy,655,5541,6196
+482,spring,2012,4,nonholiday,Thursday,workingday,Misty to misty with clouds,475,4551,5026
+483,spring,2012,4,nonholiday,Friday,workingday,Clear to partly cloudy,1014,5219,6233
+484,spring,2012,4,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1120,3100,4220
+485,spring,2012,4,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2229,4075,6304
+486,spring,2012,4,nonholiday,Monday,workingday,Misty to misty with clouds,665,4907,5572
+487,spring,2012,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,653,5087,5740
+488,spring,2012,5,nonholiday,Wednesday,workingday,Clear to partly cloudy,667,5502,6169
+489,spring,2012,5,nonholiday,Thursday,workingday,Misty to misty with clouds,764,5657,6421
+490,spring,2012,5,nonholiday,Friday,workingday,Clear to partly cloudy,1069,5227,6296
+491,spring,2012,5,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2496,4387,6883
+492,spring,2012,5,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2135,4224,6359
+493,spring,2012,5,nonholiday,Monday,workingday,Misty to misty with clouds,1008,5265,6273
+494,spring,2012,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,738,4990,5728
+495,spring,2012,5,nonholiday,Wednesday,workingday,Misty to misty with clouds,620,4097,4717
+496,spring,2012,5,nonholiday,Thursday,workingday,Clear to partly cloudy,1026,5546,6572
+497,spring,2012,5,nonholiday,Friday,workingday,Clear to partly cloudy,1319,5711,7030
+498,spring,2012,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2622,4807,7429
+499,spring,2012,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2172,3946,6118
+500,spring,2012,5,nonholiday,Monday,workingday,Misty to misty with clouds,342,2501,2843
+501,spring,2012,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,625,4490,5115
+502,spring,2012,5,nonholiday,Wednesday,workingday,Clear to partly cloudy,991,6433,7424
+503,spring,2012,5,nonholiday,Thursday,workingday,Clear to partly cloudy,1242,6142,7384
+504,spring,2012,5,nonholiday,Friday,workingday,Clear to partly cloudy,1521,6118,7639
+505,spring,2012,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,3410,4884,8294
+506,spring,2012,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2704,4425,7129
+507,spring,2012,5,nonholiday,Monday,workingday,Misty to misty with clouds,630,3729,4359
+508,spring,2012,5,nonholiday,Tuesday,workingday,Misty to misty with clouds,819,5254,6073
+509,spring,2012,5,nonholiday,Wednesday,workingday,Misty to misty with clouds,766,4494,5260
+510,spring,2012,5,nonholiday,Thursday,workingday,Clear to partly cloudy,1059,5711,6770
+511,spring,2012,5,nonholiday,Friday,workingday,Clear to partly cloudy,1417,5317,6734
+512,spring,2012,5,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2855,3681,6536
+513,spring,2012,5,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,3283,3308,6591
+514,spring,2012,5,holiday,Monday,nonworkingday,Clear to partly cloudy,2557,3486,6043
+515,spring,2012,5,nonholiday,Tuesday,workingday,Clear to partly cloudy,880,4863,5743
+516,spring,2012,5,nonholiday,Wednesday,workingday,Misty to misty with clouds,745,6110,6855
+517,spring,2012,5,nonholiday,Thursday,workingday,Clear to partly cloudy,1100,6238,7338
+518,spring,2012,6,nonholiday,Friday,workingday,Misty to misty with clouds,533,3594,4127
+519,spring,2012,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2795,5325,8120
+520,spring,2012,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2494,5147,7641
+521,spring,2012,6,nonholiday,Monday,workingday,Clear to partly cloudy,1071,5927,6998
+522,spring,2012,6,nonholiday,Tuesday,workingday,Misty to misty with clouds,968,6033,7001
+523,spring,2012,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,1027,6028,7055
+524,spring,2012,6,nonholiday,Thursday,workingday,Clear to partly cloudy,1038,6456,7494
+525,spring,2012,6,nonholiday,Friday,workingday,Clear to partly cloudy,1488,6248,7736
+526,spring,2012,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2708,4790,7498
+527,spring,2012,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2224,4374,6598
+528,spring,2012,6,nonholiday,Monday,workingday,Misty to misty with clouds,1017,5647,6664
+529,spring,2012,6,nonholiday,Tuesday,workingday,Misty to misty with clouds,477,4495,4972
+530,spring,2012,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,1173,6248,7421
+531,spring,2012,6,nonholiday,Thursday,workingday,Clear to partly cloudy,1180,6183,7363
+532,spring,2012,6,nonholiday,Friday,workingday,Clear to partly cloudy,1563,6102,7665
+533,spring,2012,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2963,4739,7702
+534,spring,2012,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2634,4344,6978
+535,spring,2012,6,nonholiday,Monday,workingday,Misty to misty with clouds,653,4446,5099
+536,spring,2012,6,nonholiday,Tuesday,workingday,Clear to partly cloudy,968,5857,6825
+537,spring,2012,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,872,5339,6211
+538,summer,2012,6,nonholiday,Thursday,workingday,Clear to partly cloudy,778,5127,5905
+539,summer,2012,6,nonholiday,Friday,workingday,Clear to partly cloudy,964,4859,5823
+540,summer,2012,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2657,4801,7458
+541,summer,2012,6,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2551,4340,6891
+542,summer,2012,6,nonholiday,Monday,workingday,Clear to partly cloudy,1139,5640,6779
+543,summer,2012,6,nonholiday,Tuesday,workingday,Clear to partly cloudy,1077,6365,7442
+544,summer,2012,6,nonholiday,Wednesday,workingday,Clear to partly cloudy,1077,6258,7335
+545,summer,2012,6,nonholiday,Thursday,workingday,Clear to partly cloudy,921,5958,6879
+546,summer,2012,6,nonholiday,Friday,workingday,Clear to partly cloudy,829,4634,5463
+547,summer,2012,6,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1455,4232,5687
+548,summer,2012,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1421,4110,5531
+549,summer,2012,7,nonholiday,Monday,workingday,Clear to partly cloudy,904,5323,6227
+550,summer,2012,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,1052,5608,6660
+551,summer,2012,7,holiday,Wednesday,nonworkingday,Clear to partly cloudy,2562,4841,7403
+552,summer,2012,7,nonholiday,Thursday,workingday,Clear to partly cloudy,1405,4836,6241
+553,summer,2012,7,nonholiday,Friday,workingday,Clear to partly cloudy,1366,4841,6207
+554,summer,2012,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1448,3392,4840
+555,summer,2012,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1203,3469,4672
+556,summer,2012,7,nonholiday,Monday,workingday,Misty to misty with clouds,998,5571,6569
+557,summer,2012,7,nonholiday,Tuesday,workingday,Misty to misty with clouds,954,5336,6290
+558,summer,2012,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,975,6289,7264
+559,summer,2012,7,nonholiday,Thursday,workingday,Clear to partly cloudy,1032,6414,7446
+560,summer,2012,7,nonholiday,Friday,workingday,Misty to misty with clouds,1511,5988,7499
+561,summer,2012,7,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2355,4614,6969
+562,summer,2012,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1920,4111,6031
+563,summer,2012,7,nonholiday,Monday,workingday,Clear to partly cloudy,1088,5742,6830
+564,summer,2012,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,921,5865,6786
+565,summer,2012,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,799,4914,5713
+566,summer,2012,7,nonholiday,Thursday,workingday,Clear to partly cloudy,888,5703,6591
+567,summer,2012,7,nonholiday,Friday,workingday,Misty to misty with clouds,747,5123,5870
+568,summer,2012,7,nonholiday,Saturday,nonworkingday,Light rain to thunderstorms or light snow,1264,3195,4459
+569,summer,2012,7,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2544,4866,7410
+570,summer,2012,7,nonholiday,Monday,workingday,Clear to partly cloudy,1135,5831,6966
+571,summer,2012,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,1140,6452,7592
+572,summer,2012,7,nonholiday,Wednesday,workingday,Clear to partly cloudy,1383,6790,8173
+573,summer,2012,7,nonholiday,Thursday,workingday,Clear to partly cloudy,1036,5825,6861
+574,summer,2012,7,nonholiday,Friday,workingday,Clear to partly cloudy,1259,5645,6904
+575,summer,2012,7,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2234,4451,6685
+576,summer,2012,7,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2153,4444,6597
+577,summer,2012,7,nonholiday,Monday,workingday,Clear to partly cloudy,1040,6065,7105
+578,summer,2012,7,nonholiday,Tuesday,workingday,Clear to partly cloudy,968,6248,7216
+579,summer,2012,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,1074,6506,7580
+580,summer,2012,8,nonholiday,Thursday,workingday,Clear to partly cloudy,983,6278,7261
+581,summer,2012,8,nonholiday,Friday,workingday,Misty to misty with clouds,1328,5847,7175
+582,summer,2012,8,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2345,4479,6824
+583,summer,2012,8,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1707,3757,5464
+584,summer,2012,8,nonholiday,Monday,workingday,Misty to misty with clouds,1233,5780,7013
+585,summer,2012,8,nonholiday,Tuesday,workingday,Misty to misty with clouds,1278,5995,7273
+586,summer,2012,8,nonholiday,Wednesday,workingday,Misty to misty with clouds,1263,6271,7534
+587,summer,2012,8,nonholiday,Thursday,workingday,Clear to partly cloudy,1196,6090,7286
+588,summer,2012,8,nonholiday,Friday,workingday,Misty to misty with clouds,1065,4721,5786
+589,summer,2012,8,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2247,4052,6299
+590,summer,2012,8,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2182,4362,6544
+591,summer,2012,8,nonholiday,Monday,workingday,Clear to partly cloudy,1207,5676,6883
+592,summer,2012,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,1128,5656,6784
+593,summer,2012,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,1198,6149,7347
+594,summer,2012,8,nonholiday,Thursday,workingday,Clear to partly cloudy,1338,6267,7605
+595,summer,2012,8,nonholiday,Friday,workingday,Clear to partly cloudy,1483,5665,7148
+596,summer,2012,8,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2827,5038,7865
+597,summer,2012,8,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1208,3341,4549
+598,summer,2012,8,nonholiday,Monday,workingday,Misty to misty with clouds,1026,5504,6530
+599,summer,2012,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,1081,5925,7006
+600,summer,2012,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,1094,6281,7375
+601,summer,2012,8,nonholiday,Thursday,workingday,Clear to partly cloudy,1363,6402,7765
+602,summer,2012,8,nonholiday,Friday,workingday,Misty to misty with clouds,1325,6257,7582
+603,summer,2012,8,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1829,4224,6053
+604,summer,2012,8,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,1483,3772,5255
+605,summer,2012,8,nonholiday,Monday,workingday,Clear to partly cloudy,989,5928,6917
+606,summer,2012,8,nonholiday,Tuesday,workingday,Clear to partly cloudy,935,6105,7040
+607,summer,2012,8,nonholiday,Wednesday,workingday,Clear to partly cloudy,1177,6520,7697
+608,summer,2012,8,nonholiday,Thursday,workingday,Clear to partly cloudy,1172,6541,7713
+609,summer,2012,8,nonholiday,Friday,workingday,Clear to partly cloudy,1433,5917,7350
+610,summer,2012,9,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2352,3788,6140
+611,summer,2012,9,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,2613,3197,5810
+612,summer,2012,9,holiday,Monday,nonworkingday,Clear to partly cloudy,1965,4069,6034
+613,summer,2012,9,nonholiday,Tuesday,workingday,Clear to partly cloudy,867,5997,6864
+614,summer,2012,9,nonholiday,Wednesday,workingday,Clear to partly cloudy,832,6280,7112
+615,summer,2012,9,nonholiday,Thursday,workingday,Misty to misty with clouds,611,5592,6203
+616,summer,2012,9,nonholiday,Friday,workingday,Clear to partly cloudy,1045,6459,7504
+617,summer,2012,9,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1557,4419,5976
+618,summer,2012,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2570,5657,8227
+619,summer,2012,9,nonholiday,Monday,workingday,Clear to partly cloudy,1118,6407,7525
+620,summer,2012,9,nonholiday,Tuesday,workingday,Clear to partly cloudy,1070,6697,7767
+621,summer,2012,9,nonholiday,Wednesday,workingday,Clear to partly cloudy,1050,6820,7870
+622,summer,2012,9,nonholiday,Thursday,workingday,Clear to partly cloudy,1054,6750,7804
+623,summer,2012,9,nonholiday,Friday,workingday,Clear to partly cloudy,1379,6630,8009
+624,summer,2012,9,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,3160,5554,8714
+625,summer,2012,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2166,5167,7333
+626,summer,2012,9,nonholiday,Monday,workingday,Misty to misty with clouds,1022,5847,6869
+627,summer,2012,9,nonholiday,Tuesday,workingday,Misty to misty with clouds,371,3702,4073
+628,summer,2012,9,nonholiday,Wednesday,workingday,Clear to partly cloudy,788,6803,7591
+629,summer,2012,9,nonholiday,Thursday,workingday,Clear to partly cloudy,939,6781,7720
+630,summer,2012,9,nonholiday,Friday,workingday,Clear to partly cloudy,1250,6917,8167
+631,summer,2012,9,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2512,5883,8395
+632,fall,2012,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2454,5453,7907
+633,fall,2012,9,nonholiday,Monday,workingday,Clear to partly cloudy,1001,6435,7436
+634,fall,2012,9,nonholiday,Tuesday,workingday,Clear to partly cloudy,845,6693,7538
+635,fall,2012,9,nonholiday,Wednesday,workingday,Clear to partly cloudy,787,6946,7733
+636,fall,2012,9,nonholiday,Thursday,workingday,Misty to misty with clouds,751,6642,7393
+637,fall,2012,9,nonholiday,Friday,workingday,Misty to misty with clouds,1045,6370,7415
+638,fall,2012,9,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2589,5966,8555
+639,fall,2012,9,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2015,4874,6889
+640,fall,2012,10,nonholiday,Monday,workingday,Misty to misty with clouds,763,6015,6778
+641,fall,2012,10,nonholiday,Tuesday,workingday,Light rain to thunderstorms or light snow,315,4324,4639
+642,fall,2012,10,nonholiday,Wednesday,workingday,Misty to misty with clouds,728,6844,7572
+643,fall,2012,10,nonholiday,Thursday,workingday,Misty to misty with clouds,891,6437,7328
+644,fall,2012,10,nonholiday,Friday,workingday,Clear to partly cloudy,1516,6640,8156
+645,fall,2012,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,3031,4934,7965
+646,fall,2012,10,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,781,2729,3510
+647,fall,2012,10,holiday,Monday,nonworkingday,Misty to misty with clouds,874,4604,5478
+648,fall,2012,10,nonholiday,Tuesday,workingday,Misty to misty with clouds,601,5791,6392
+649,fall,2012,10,nonholiday,Wednesday,workingday,Clear to partly cloudy,780,6911,7691
+650,fall,2012,10,nonholiday,Thursday,workingday,Clear to partly cloudy,834,6736,7570
+651,fall,2012,10,nonholiday,Friday,workingday,Clear to partly cloudy,1060,6222,7282
+652,fall,2012,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2252,4857,7109
+653,fall,2012,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2080,4559,6639
+654,fall,2012,10,nonholiday,Monday,workingday,Misty to misty with clouds,760,5115,5875
+655,fall,2012,10,nonholiday,Tuesday,workingday,Clear to partly cloudy,922,6612,7534
+656,fall,2012,10,nonholiday,Wednesday,workingday,Clear to partly cloudy,979,6482,7461
+657,fall,2012,10,nonholiday,Thursday,workingday,Misty to misty with clouds,1008,6501,7509
+658,fall,2012,10,nonholiday,Friday,workingday,Misty to misty with clouds,753,4671,5424
+659,fall,2012,10,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2806,5284,8090
+660,fall,2012,10,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2132,4692,6824
+661,fall,2012,10,nonholiday,Monday,workingday,Clear to partly cloudy,830,6228,7058
+662,fall,2012,10,nonholiday,Tuesday,workingday,Clear to partly cloudy,841,6625,7466
+663,fall,2012,10,nonholiday,Wednesday,workingday,Clear to partly cloudy,795,6898,7693
+664,fall,2012,10,nonholiday,Thursday,workingday,Misty to misty with clouds,875,6484,7359
+665,fall,2012,10,nonholiday,Friday,workingday,Misty to misty with clouds,1182,6262,7444
+666,fall,2012,10,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,2643,5209,7852
+667,fall,2012,10,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,998,3461,4459
+668,fall,2012,10,nonholiday,Monday,workingday,Light rain to thunderstorms or light snow,2,20,22
+669,fall,2012,10,nonholiday,Tuesday,workingday,Misty to misty with clouds,87,1009,1096
+670,fall,2012,10,nonholiday,Wednesday,workingday,Misty to misty with clouds,419,5147,5566
+671,fall,2012,11,nonholiday,Thursday,workingday,Misty to misty with clouds,466,5520,5986
+672,fall,2012,11,nonholiday,Friday,workingday,Clear to partly cloudy,618,5229,5847
+673,fall,2012,11,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1029,4109,5138
+674,fall,2012,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,1201,3906,5107
+675,fall,2012,11,nonholiday,Monday,workingday,Clear to partly cloudy,378,4881,5259
+676,fall,2012,11,nonholiday,Tuesday,workingday,Clear to partly cloudy,466,5220,5686
+677,fall,2012,11,nonholiday,Wednesday,workingday,Misty to misty with clouds,326,4709,5035
+678,fall,2012,11,nonholiday,Thursday,workingday,Clear to partly cloudy,340,4975,5315
+679,fall,2012,11,nonholiday,Friday,workingday,Clear to partly cloudy,709,5283,5992
+680,fall,2012,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,2090,4446,6536
+681,fall,2012,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,2290,4562,6852
+682,fall,2012,11,holiday,Monday,nonworkingday,Clear to partly cloudy,1097,5172,6269
+683,fall,2012,11,nonholiday,Tuesday,workingday,Misty to misty with clouds,327,3767,4094
+684,fall,2012,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,373,5122,5495
+685,fall,2012,11,nonholiday,Thursday,workingday,Misty to misty with clouds,320,5125,5445
+686,fall,2012,11,nonholiday,Friday,workingday,Clear to partly cloudy,484,5214,5698
+687,fall,2012,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,1313,4316,5629
+688,fall,2012,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,922,3747,4669
+689,fall,2012,11,nonholiday,Monday,workingday,Misty to misty with clouds,449,5050,5499
+690,fall,2012,11,nonholiday,Tuesday,workingday,Misty to misty with clouds,534,5100,5634
+691,fall,2012,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,615,4531,5146
+692,fall,2012,11,holiday,Thursday,nonworkingday,Clear to partly cloudy,955,1470,2425
+693,fall,2012,11,nonholiday,Friday,workingday,Clear to partly cloudy,1603,2307,3910
+694,fall,2012,11,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,532,1745,2277
+695,fall,2012,11,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,309,2115,2424
+696,fall,2012,11,nonholiday,Monday,workingday,Clear to partly cloudy,337,4750,5087
+697,fall,2012,11,nonholiday,Tuesday,workingday,Misty to misty with clouds,123,3836,3959
+698,fall,2012,11,nonholiday,Wednesday,workingday,Clear to partly cloudy,198,5062,5260
+699,fall,2012,11,nonholiday,Thursday,workingday,Clear to partly cloudy,243,5080,5323
+700,fall,2012,11,nonholiday,Friday,workingday,Clear to partly cloudy,362,5306,5668
+701,fall,2012,12,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,951,4240,5191
+702,fall,2012,12,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,892,3757,4649
+703,fall,2012,12,nonholiday,Monday,workingday,Clear to partly cloudy,555,5679,6234
+704,fall,2012,12,nonholiday,Tuesday,workingday,Clear to partly cloudy,551,6055,6606
+705,fall,2012,12,nonholiday,Wednesday,workingday,Clear to partly cloudy,331,5398,5729
+706,fall,2012,12,nonholiday,Thursday,workingday,Clear to partly cloudy,340,5035,5375
+707,fall,2012,12,nonholiday,Friday,workingday,Misty to misty with clouds,349,4659,5008
+708,fall,2012,12,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,1153,4429,5582
+709,fall,2012,12,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,441,2787,3228
+710,fall,2012,12,nonholiday,Monday,workingday,Misty to misty with clouds,329,4841,5170
+711,fall,2012,12,nonholiday,Tuesday,workingday,Misty to misty with clouds,282,5219,5501
+712,fall,2012,12,nonholiday,Wednesday,workingday,Misty to misty with clouds,310,5009,5319
+713,fall,2012,12,nonholiday,Thursday,workingday,Clear to partly cloudy,425,5107,5532
+714,fall,2012,12,nonholiday,Friday,workingday,Clear to partly cloudy,429,5182,5611
+715,fall,2012,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,767,4280,5047
+716,fall,2012,12,nonholiday,Sunday,nonworkingday,Misty to misty with clouds,538,3248,3786
+717,fall,2012,12,nonholiday,Monday,workingday,Misty to misty with clouds,212,4373,4585
+718,fall,2012,12,nonholiday,Tuesday,workingday,Clear to partly cloudy,433,5124,5557
+719,fall,2012,12,nonholiday,Wednesday,workingday,Clear to partly cloudy,333,4934,5267
+720,fall,2012,12,nonholiday,Thursday,workingday,Misty to misty with clouds,314,3814,4128
+721,winter,2012,12,nonholiday,Friday,workingday,Misty to misty with clouds,221,3402,3623
+722,winter,2012,12,nonholiday,Saturday,nonworkingday,Clear to partly cloudy,205,1544,1749
+723,winter,2012,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,408,1379,1787
+724,winter,2012,12,nonholiday,Monday,workingday,Misty to misty with clouds,174,746,920
+725,winter,2012,12,holiday,Tuesday,nonworkingday,Misty to misty with clouds,440,573,1013
+726,winter,2012,12,nonholiday,Wednesday,workingday,Light rain to thunderstorms or light snow,9,432,441
+727,winter,2012,12,nonholiday,Thursday,workingday,Misty to misty with clouds,247,1867,2114
+728,winter,2012,12,nonholiday,Friday,workingday,Misty to misty with clouds,644,2451,3095
+729,winter,2012,12,nonholiday,Saturday,nonworkingday,Misty to misty with clouds,159,1182,1341
+730,winter,2012,12,nonholiday,Sunday,nonworkingday,Clear to partly cloudy,364,1432,1796
+731,winter,2012,12,nonholiday,Monday,workingday,Misty to misty with clouds,439,2290,2729
