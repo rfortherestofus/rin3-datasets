@@ -42,6 +42,8 @@ In order to use the `.csv` data set in your R project, you can do one of a few t
 
     <br> ![Clicking the Raw button, highlighting the full URL, then right clicking and choosing Copy](images/raw-url.gif) <br>
 
-    For example, if you were wanting to import the cereal data set, you could run this, notice that the URL contains both the https header and the word "raw" is in the URL as well:\
-    \
-    `cereal_data <- read_csv("https://raw.githubusercontent.com/rfortherestofus/rin3-datasets/main/getting-started-datasets/cereal/cereal.csv")`.
+    For example, if you were wanting to import the cereal data set, you could run this, notice that the URL contains both the https header and the word "raw" is in the URL as well:
+
+    ```{r}
+    cereal_data <- read_csv("https://raw.githubusercontent.com/rfortherestofus/rin3-datasets/main/getting-started-datasets/cereal/cereal.csv")
+    ```
