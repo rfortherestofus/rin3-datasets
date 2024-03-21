@@ -1,0 +1,35 @@
+Original data set download source: Tidy Tuesday GitHub repo
+
+URL: https://github.com/rfordatascience/tidytuesday/raw/master/data/2021/2021-05-18/survey.csv.
+
+License for TidyTuesday: Creative Commons Zero v1.0 Universal.
+CC0 1.0 Universal - https://github.com/rfordatascience/tidytuesday/blob/master/LICENSE
+
+From Ask A Manager: "This data does not reflect the general population; it reflects Ask a Manager readers who self-selected to respond, which is a very different group (as you can see just from the demographic breakdown below, which is very white and very female)."
+
+
+Description: This data was collected by the Ask A Manager blog and used to create this blog post: https://www.askamanager.org/2021/05/some-findings-from-24000-peoples-salaries.html
+
+
+The survey data set contains variables that are survey questions and it has been cleaned from it's original form to be easier for beginners to work with.
+
+************
+PLEASE NOTE: This data contains salaries in many different local currencies, so the annual_salary field cannot be summed without first grouping by currency.
+************
+
+artists data set fields:
+
+
+how_old_are_you                          -  How old are you (bracket range)
+industry                                 -  Industry
+job_title                                -  Job title
+annual_salary                            -  Annual salary in local currency
+currency                                 -  Local currency
+country                                  -  Country currently working in
+state                                    -  State
+city                                     -  City
+overall_years_of_professional_experience -  Overall years of professional experience (brk)
+years_of_experience_in_field             -  Years of experience in field (bracketed)
+highest_level_of_education_completed     -  Highest level of education completed
+gender                                   -  Gender
+race                                     -  Race
