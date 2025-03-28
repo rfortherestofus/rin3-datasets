@@ -1,0 +1,33 @@
+Original data set download source: @AYUSHKHAIRE Huggingface
+
+URL: https://huggingface.co/datasets/AYUSHKHAIRE/real-time-stocks-data
+
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+- this data set HAS been changed/cleaned from the original version.
+
+Description: Data of trade values when opening and closing the market, highest and lowest values and volume of each trade.
+Kaggle notebook: https://www.kaggle.com/code/ayushkhaire/real-time-data-update/notebook
+
+*** :warning: The raw data is very large (about 9GB); proceed carefully.
+
+
+
+Data Set Fields:
+
+
+- stockname: name/code of each stock
+
+- timestamp: day of the trade
+
+- open: value of the stock at the opening of the market
+
+- high: highest value of the stock on that day
+
+- low: lowest value of the stock on that day
+
+- close: value of the stock at the closing of the market
+
+- volume: volume of trades on that day
+
+:warning: The raw data provides trades by minute; here the open, high, low and close values are averaged out per day and volumes are summed up.
